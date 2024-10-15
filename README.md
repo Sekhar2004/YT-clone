@@ -17,8 +17,4 @@ This is a YouTube clone application built using React, Material UI, and the YouT
 - Axios
 - RapidAPI (YouTube Data API)
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
